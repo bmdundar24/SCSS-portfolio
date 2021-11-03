@@ -1,0 +1,9 @@
+.nav .menu-nav {
+  text-align: right;
+}
+
+.nav .menu-nav__item {
+  display: inline;
+  padding-right: 1rem;
+}
+/*# sourceMappingURL=menu.css.map */
